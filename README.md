@@ -9,6 +9,7 @@ All diagrams are stored in the Screenshots/ folder and are displayed after their
 🏗️ Overall Network Design
 
 This diagram represents the high-level architecture of the network, showing how core devices, distribution layers, and access networks are interconnected to form a unified system.
+![Overall Network Design](Screenshots/Design.png)
 
 🖥️ Server Infrastructure
 
